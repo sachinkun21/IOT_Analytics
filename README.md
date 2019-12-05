@@ -12,7 +12,8 @@
 ### What is IoT?
 #### IoT == Internet of Things
 - Network of connected devices
-- Measure and collect data Interact with environment
+- Measure and collect data 
+- Interact with environment
 
 ### IoT Devices:
 #### Connected devices
