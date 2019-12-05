@@ -37,7 +37,7 @@
 - XML
 - Proprietary protocols
 
-### Data aquisition
+### Data acquisition
 - Data streams 
 - Gathered from a device 
 - API endpoints
