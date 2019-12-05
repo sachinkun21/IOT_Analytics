@@ -1,4 +1,3 @@
-
 # ANALYZING IOT DATA IN PYTHON
 ## Repository Overview:
 1. Collect and analyze IoT data 
@@ -11,8 +10,9 @@
 ## Introduction to IoT Analytics
 
 ### What is IoT?
-- IoT == Internet of Things
-- Network of connected devices: Measure and collect data Interact with environment
+#### IoT == Internet of Things
+- Network of connected devices
+- Measure and collect data Interact with environment
 
 ### IoT Devices:
 #### Connected devices
