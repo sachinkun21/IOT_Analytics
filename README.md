@@ -18,12 +18,14 @@
 ### IoT Devices:
 #### Connected devices
 - Smart locks
-- Connected thermostats Temperature sensors
+- Connected thermostats 
+- Temperature sensors
 
 
 #### Industrial connected devices
-- Connected machines Robots / Cobots
-- Package tracking
+- Connected machines 
+- Robots / Cobots
+- Package tracking devices
 
 
 
