@@ -3,8 +3,8 @@
 ## Repository Overview:
 1. Collect and analyze IoT data 
 2. Gather data
-  - API Endpoints
-  - Data Streams 
+    - API Endpoints
+    - Data Streams 
 3. Visualize data Combine datasets Detect patterns
 4. ML Model based alerts
 
