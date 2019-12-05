@@ -42,3 +42,5 @@
 - Gathered from a device 
 - API endpoints
 
+### Analysis Cleaning, Preprocessing and Plotting
+
